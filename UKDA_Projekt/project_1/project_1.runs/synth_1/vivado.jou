@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Nov 27 11:27:36 2024
+# Process ID: 16428
+# Current directory: C:/Users/canyo/Desktop/UKDA/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log BMP180_I2C_Com.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source BMP180_I2C_Com.tcl
+# Log file: C:/Users/canyo/Desktop/UKDA/project_1/project_1.runs/synth_1/BMP180_I2C_Com.vds
+# Journal file: C:/Users/canyo/Desktop/UKDA/project_1/project_1.runs/synth_1\vivado.jou
+# Running On: DESKTOP-0HIOEPQ, OS: Windows, CPU Frequency: 2419 MHz, CPU Physical cores: 4, Host memory: 8379 MB
+#-----------------------------------------------------------
+source BMP180_I2C_Com.tcl -notrace
