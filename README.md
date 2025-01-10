@@ -1,7 +1,7 @@
 # FPGA_PROJEKT
 | Feladat            | Pontszám |
 | ------------------ | -------- |
-| Jelenlét           | 10      |
+| Jelenlét           | 13      |
 | Általános          | 8       |
 | Tervezés           | 7      |
 | Mérések            | 0      |
